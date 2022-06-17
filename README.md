@@ -1,0 +1,2 @@
+# palestra
+sorteia paletra
